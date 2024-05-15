@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sebarreto
 - 👀 I’m interested in project managment and programming - Industry 4.0 -> IoT, Automation, Robotic
-- 🌱 I’m currently learning about Python and project managment certifications
-- 💞️ I’m looking to collaborate on several projects as functional analyst or project manager
+- 🌱 I’m currently learning about IoT. Arduino, Micropython, Python and project managment certifications
+- 💞️ I am looking to collaborate on projects as a programmer, a functional analyst or project manager.
 - 📫 How to reach me: https://www.linkedin.com/in/sebastian-a-barreto/
 
 <!---
